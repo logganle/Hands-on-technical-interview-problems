@@ -19,3 +19,5 @@
  15. [Maximum average subarray](https://leetcode.com/problems/maximum-average-subarray-i/)
  
  ### Prefix sum algorithm
+ 1. [Subarray Sums equals k] (https://leetcode.com/problems/subarray-sum-equals-k/)
+ 
