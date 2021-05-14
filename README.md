@@ -21,4 +21,3 @@
  ### Prefix sum algorithm
  1. [Subarray Sums equals k] (https://leetcode.com/problems/subarray-sum-equals-k/)
  2. [Subarray sums divisible by k] (https://leetcode.com/problems/subarray-sums-divisible-by-k/)
- 
