@@ -1,7 +1,7 @@
 # Technical-interview-guide
 
 ## Arrays
- ###Sliding windows
+ ### Sliding windows
  - [Find minimum subarray with length greater than or equal to K](https://leetcode.com/problems/minimum-size-subarray-sum/)
  - [Longest increasing contiguous subsequence array](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
  - [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -19,12 +19,12 @@
  - [Maximum # occurrences of a substring](https://leetcode.com/problems/max-consecutive-ones-iii/)(tricky)
  - [Maximum average subarray](https://leetcode.com/problems/maximum-average-subarray-i/)
  
- ###Prefix sum algorithm
+ ### Prefix sum algorithm
  - [Subarray Sums equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
  - [Subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
  - [Can make palindrome from substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)
  
- ###Two pointers
+ ### Two pointers
  - [Two sum](https://leetcode.com/problems/two-sum/)
  - [Three sum](https://leetcode.com/problems/3sum/)
  - [3Sum-closest](https://leetcode.com/problems/3sum-closest/)
@@ -33,14 +33,14 @@
  - [Interval-list-intersection](https://leetcode.com/problems/interval-list-intersections/)
  | [Good explanation](https://leetcode.com/problems/interval-list-intersections/discuss/647482/Python-Two-Pointer-Approach-%2B-Thinking-Process-Diagrams)
  
- ###Matrix
+ ### Matrix
  - [Diagonal traversal](https://leetcode.com/problems/diagonal-traverse/)
  - [Spiral traversal](https://leetcode.com/problems/spiral-matrix/)
  - [Rotate matrix clockwise](https://leetcode.com/problems/rotate-image/) | [Counter clockwise](https://binarysearch.com/problems/Rotate-by-90-Degrees-Counter-Clockwise)
  - [Sudoku Validator](https://binarysearch.com/problems/Sudoku-Validator)
  - [Candy Crush](https://leetcode.com/problems/candy-crush/) (Premium)
  
- ##Searching & sorting
+ ## Searching & sorting
  ### Binary search
  1. Simple binary search
      - [Smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
