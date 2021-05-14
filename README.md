@@ -17,3 +17,5 @@
  13. [Longest repeating character replacement](https://leetcode.com/problems/max-consecutive-ones-ii/)(tricky)
  14. [Maximum # occurrences of a substring](https://leetcode.com/problems/max-consecutive-ones-iii/)(tricky)
  15. [Maximum average subarray](https://leetcode.com/problems/maximum-average-subarray-i/)
+ 
+ ### Prefix sum algorithm
