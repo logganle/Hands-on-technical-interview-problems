@@ -10,7 +10,7 @@
  - [Substring with concatenation of all words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
  - [Longest substring with at most 2 distinct characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) (At most trick | Premium) 
  - [Longest substring with at most K distinct characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) (At most trick | Premium)
- - [Count number of Nice Subarrays](Count Number of Nice Subarrays) (At most trick) 
+ - [Count number of nice sub arrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) (At most trick) 
  - [Permutation in a string](https://leetcode.com/problems/permutation-in-string/)
  - [Max-consecutive-ones-ii/](https://leetcode.com/problems/max-consecutive-ones-ii/) 
  - [Max-consecutive-ones-iii/](https://leetcode.com/problems/max-consecutive-ones-iii/) (Premium) 
