@@ -47,13 +47,11 @@
      - [Peek index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
      - [H-index II](https://leetcode.com/problems/h-index-ii/)
      - [First and last position of element in sorted array](https://leetcode.com/problems/h-index-ii/)
- 
  2. Tricky Binary search <br/>
     There are multiple conditions we need to figure out if we need to select left or if we need to select right
     - [Find-peak-element](https://leetcode.com/problems/find-peak-element/)
     - [Find Minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [With duplicates](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
     - [Missing element in sorted array](https://leetcode.com/problems/missing-element-in-sorted-array/) (Premium)
- 
  3. Subtle binary search <br/>
     Difficult to recognize if binary search can be applied. The input is not obviously sorted.
     - [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
@@ -63,7 +61,6 @@
     - [Find the smallest divisor given a threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
  4. Advanced binary search
     - [Median-of-two-sorted-array](https://leetcode.com/problems/median-of-two-sorted-arrays/)
- 
  5. Useful resources
     - [Binary search 101](https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook)
     - [Powerful Ultimate Binary Search Template](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
