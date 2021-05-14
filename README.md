@@ -1,7 +1,7 @@
 # Technical-interview-guide
 
 ## Arrays
- ### Sliding windows
+### Sliding windows
  - [Find minimum subarray with length greater than or equal to K](https://leetcode.com/problems/minimum-size-subarray-sum/)
  - [Longest increasing contiguous subsequence array](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
  - [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -40,18 +40,20 @@
  - [Sudoku Validator](https://binarysearch.com/problems/Sudoku-Validator)
  - [Candy Crush](https://leetcode.com/problems/candy-crush/) (Premium)
  
- ## Searching & sorting
- ### Binary search
+## Searching & sorting
+### Binary search
  1. Simple binary search
      - [Smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
      - [Peek index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
      - [H-index II](https://leetcode.com/problems/h-index-ii/)
      - [First and last position of element in sorted array](https://leetcode.com/problems/h-index-ii/)
+ 
  2. Tricky Binary search <br/>
     There are multiple conditions we need to figure out if we need to select left or if we need to select right
     - [Find-peak-element](https://leetcode.com/problems/find-peak-element/)
     - [Find Minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [With duplicates](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
     - [Missing element in sorted array](https://leetcode.com/problems/missing-element-in-sorted-array/) (Premium)
+ 
  3. Subtle binary search <br/>
     Difficult to recognize if binary search can be applied. The input is not obviously sorted.
     - [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
@@ -61,3 +63,14 @@
     - [Find the smallest divisor given a threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
  4. Advanced binary search
     - [Median-of-two-sorted-array](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+ 
+ 5. Useful resources
+    - [Binary search 101](https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook)
+    - [Powerful Ultimate Binary Search Template](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+    
+### Cyclic sort
+- [Missing number](https://leetcode.com/problems/missing-number/)
+- [Find all duplicate numbers](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [First missing positive number](https://leetcode.com/problems/first-missing-positive/)
+- [Find All numbers disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [Set mismatch](https://leetcode.com/problems/set-mismatch/)
