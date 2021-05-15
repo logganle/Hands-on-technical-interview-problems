@@ -1,4 +1,4 @@
-# Hands-on-technical-problem-list
+# Hands-on-technical-interview-problems
 
 ## Arrays
 ### Sliding windows
