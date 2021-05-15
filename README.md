@@ -131,7 +131,7 @@
  2. Top down | DFS + global tracker | preorder
  3. Bottom up
  
-##Graphs
+## Graphs
   * BFS/DFS
     * Island variants | Connected components
         - [Number of islands](https://leetcode.com/problems/number-of-islands/)
