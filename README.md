@@ -113,4 +113,14 @@
  2. Top/Smallest/Frequent K
     - [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/)
     - [Kth largest element in array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-    - [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)   
+    - [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)
+
+## Tree
+ 1. Serialize and deserialize variations
+    - [Serialize and deserialize binary trees](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+    - [Serialize and deserialize n-ary trees](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)
+    - [Find duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+    - [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+    - [Construct binary tree from string](https://leetcode.com/problems/construct-binary-tree-from-string/)
+ 2. Top down | DFS + global tracker | preorder
+ 3. Bottom up   
