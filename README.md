@@ -96,6 +96,19 @@
      - [132 Pattern](https://leetcode.com/problems/132-pattern/)
      - [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/)
      - [Find most competitive subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+     - [Max Chunks to Make sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
      - [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
      - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
-    
+### Queues
+ 1. Deque
+    - [Sliding max window](https://leetcode.com/problems/sliding-window-maximum/)
+### Heaps
+ 1. K-Way merge
+   - [Merge k sorted list](https://leetcode.com/problems/merge-k-sorted-lists/)
+   - [Find K smallest pairs sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Good explanation](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/84551/simple-Java-O(KlogK)-solution-with-explanation)
+   - [Employee free time](https://leetcode.com/problems/employee-free-time/)
+   - [Minimize deviation](https://leetcode.com/problems/minimize-deviation-in-array/)
+ 2. Top/Smallest/Frequent K
+   - [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+   - [Kth largest element in array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+   - [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)   
