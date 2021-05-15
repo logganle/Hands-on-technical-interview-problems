@@ -71,3 +71,20 @@
 - [First missing positive number](https://leetcode.com/problems/first-missing-positive/)
 - [Find All numbers disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [Set mismatch](https://leetcode.com/problems/set-mismatch/)
+
+## Stacks & Queues & Heaps
+### Stacks
+ 1. Designs
+    - [Design max stack](https://leetcode.com/problems/max-stack/) (Premium)
+    - [Design min stack](https://leetcode.com/problems/min-stack/)
+ 2. Expression evaluation variants
+    - [Calculator-no-parenthesis](https://leetcode.com/problems/basic-calculator-ii/)
+    - [Calculator-parenthesis-addition-subtraction](https://leetcode.com/problems/basic-calculator/)
+    - [Calculator-parenthesis-all-operators](https://leetcode.com/problems/basic-calculator-iii/)
+    - [Calculator-pan-all-operators-negative-digits](https://binarysearch.com/problems/Calculator)
+    - [Simplify-expression](https://leetcode.com/problems/basic-calculator-iv/)
+ 3. Decode string variation
+     - [Decode string](https://leetcode.com/problems/decode-string/)
+     - [Brace-Expansion](https://leetcode.com/problems/brace-expansion/) (Premium)
+     - [Number-of-Atoms](https://leetcode.com/problems/number-of-atoms/)
+     - [Flatten Nested List iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) 
