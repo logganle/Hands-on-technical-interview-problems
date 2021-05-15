@@ -84,7 +84,18 @@
     - [Calculator-pan-all-operators-negative-digits](https://binarysearch.com/problems/Calculator)
     - [Simplify-expression](https://leetcode.com/problems/basic-calculator-iv/)
  3. Decode string variation
-     - [Decode string](https://leetcode.com/problems/decode-string/)
-     - [Brace-Expansion](https://leetcode.com/problems/brace-expansion/) (Premium)
-     - [Number-of-Atoms](https://leetcode.com/problems/number-of-atoms/)
-     - [Flatten Nested List iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) 
+    - [Decode string](https://leetcode.com/problems/decode-string/)
+    - [Brace-Expansion](https://leetcode.com/problems/brace-expansion/) (Premium)
+    - [Number-of-Atoms](https://leetcode.com/problems/number-of-atoms/)
+    - [Flatten Nested List iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+ 4. Monotonic stack variants
+     - [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)
+     - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/)
+     - [Remove K digits](https://leetcode.com/problems/remove-k-digits/description/)
+     - [Remove duplicate letters](https://leetcode.com/problems/remove-duplicate-letters/)
+     - [132 Pattern](https://leetcode.com/problems/132-pattern/)
+     - [Trapping rain water](https://leetcode.com/problems/trapping-rain-water/)
+     - [Find most competitive subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+     - [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
+     - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+    
