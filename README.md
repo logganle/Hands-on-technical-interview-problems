@@ -122,5 +122,45 @@
     - [Find duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
     - [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
     - [Construct binary tree from string](https://leetcode.com/problems/construct-binary-tree-from-string/)
+ 2. Basic tree traversals (Recursion/iteration)
+    - [Preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+    - [Inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+    - [Postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+    - [BST iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+    - [BST-iterator-2ways](https://leetcode.com/problems/binary-search-tree-iterator-ii/) (Premium)  
  2. Top down | DFS + global tracker | preorder
- 3. Bottom up   
+ 3. Bottom up
+ 
+##Graphs
+  * BFS/DFS
+    * Island variants | Connected components
+        - [Number of islands](https://leetcode.com/problems/number-of-islands/)
+        - [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+        - [Max-Area-island](https://leetcode.com/problems/max-area-of-island/)
+        - [Coloring-border](https://leetcode.com/problems/coloring-a-border/)
+        - [Flood-fill](https://leetcode.com/problems/flood-fill/)
+    * Traverse from boundary
+        - [surrounded-regions](https://leetcode.com/problems/surrounded-regions/)
+        - [number-of-encalves](https://leetcode.com/problems/number-of-enclaves/)
+        - [Pacific-Atlantic-Water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+    * Simultaneous BFS variants
+        - [Rotting-oranges](https://leetcode.com/problems/rotting-oranges/)
+        - [As Far from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+        - [01-matrix](https://leetcode.com/problems/01-matrix/)
+    * Graph coloring
+        - [Possible-bipartition](https://leetcode.com/problems/possible-bipartition/)
+        - [Is-graph-Bipartite](https://leetcode.com/problems/is-graph-bipartite/)    
+  * Topological sort
+    - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+    - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) (Premium)
+    - [Sort items by groups respecting dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) (challenging)
+  * Union Find
+    - [Friend-circle](https://leetcode.com/problems/friend-circles/)
+    - [Redundant-connection](https://leetcode.com/problems/redundant-connection/)
+    - [Satisfiability-of-Equality-Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
+    - [Connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) (minimum spanning tree)
+    - [Number of Operations to make netWork connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
+    - [Most Stones Removed with Same Row Or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
+    
+    
+          
