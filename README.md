@@ -85,7 +85,7 @@
     - [Calculator-parenthesis-all-operators](https://leetcode.com/problems/basic-calculator-iii/)
     - [Calculator-pan-all-operators-negative-digits](https://binarysearch.com/problems/Calculator)
     - [Simplify-expression](https://leetcode.com/problems/basic-calculator-iv/)
- 3. Decode string variation
+ 3. Decode string variants
     - [Decode string](https://leetcode.com/problems/decode-string/)
     - [Brace-Expansion](https://leetcode.com/problems/brace-expansion/) (Premium)
     - [Number-of-Atoms](https://leetcode.com/problems/number-of-atoms/)
