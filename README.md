@@ -39,6 +39,8 @@
  - [Rotate matrix clockwise](https://leetcode.com/problems/rotate-image/) | [Counter clockwise](https://binarysearch.com/problems/Rotate-by-90-Degrees-Counter-Clockwise)
  - [Sudoku Validator](https://binarysearch.com/problems/Sudoku-Validator)
  - [Candy Crush](https://leetcode.com/problems/candy-crush/) (Premium)
+ - [Rotating the Box](https://leetcode.com/problems/rotating-the-box/)
+
  
 ## Searching & sorting
 ### Binary search
@@ -180,5 +182,8 @@
             - [Combination I](https://leetcode.com/problems/combination-sum/solution/)
             - [Combination II](https://leetcode.com/problems/combination-sum-ii/)
             - [Combination III](https://leetcode.com/problems/combination-sum-iii/)
-   * More advanced backtracking problems     
+   * More advanced backtracking problems  
+
+
+
           
