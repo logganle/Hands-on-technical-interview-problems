@@ -1,5 +1,4 @@
 <img src="./images/LeetCode_logo.png" width=23% align=right />  
-<img src="./images/binarysearch" width=23% align=right />
 
 # Hands-on-technical-interview-problems
 Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
