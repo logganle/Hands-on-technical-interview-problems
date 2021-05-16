@@ -1,3 +1,5 @@
+<img src="./images/LeetCode_logo.png" width=30% align=right />  
+
 # Hands-on-technical-interview-problems
 
 ## Arrays  
