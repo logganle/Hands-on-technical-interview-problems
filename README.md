@@ -25,12 +25,14 @@
  - [Can make palindrome from substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)
  
  ### Two pointers
- - [Two sum](https://leetcode.com/problems/two-sum/)
- - [Three sum](https://leetcode.com/problems/3sum/)
- - [3Sum-closest](https://leetcode.com/problems/3sum-closest/)
- - [3sum-smaller](https://leetcode.com/problems/3sum-smaller/) (Premium)
- - [4sum](https://leetcode.com/problems/4sum/)
- - [Interval-list-intersection](https://leetcode.com/problems/interval-list-intersections/)
+ * Two sum variants
+     - [Two sum](https://leetcode.com/problems/two-sum/)
+     - [Three sum](https://leetcode.com/problems/3sum/)
+     - [3Sum-closest](https://leetcode.com/problems/3sum-closest/)
+     - [3sum-smaller](https://leetcode.com/problems/3sum-smaller/) (Premium)
+     - [4sum](https://leetcode.com/problems/4sum/)
+  * Intervals    
+    - [Interval-list-intersection](https://leetcode.com/problems/interval-list-intersections/)
  | [Good explanation](https://leetcode.com/problems/interval-list-intersections/discuss/647482/Python-Two-Pointer-Approach-%2B-Thinking-Process-Diagrams)
  
  ### Matrix
