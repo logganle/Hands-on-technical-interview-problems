@@ -1,6 +1,7 @@
-<img src="./images/LeetCode_logo.png" width=30% align=right />  
+<img src="./images/LeetCode_logo.png" width=23% align=right />  
 
 # Hands-on-technical-interview-problems
+Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
 
 ## Arrays  
  ### Two pointers
