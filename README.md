@@ -88,6 +88,7 @@
     - [Brace-Expansion](https://leetcode.com/problems/brace-expansion/) (Premium)
     - [Number-of-Atoms](https://leetcode.com/problems/number-of-atoms/)
     - [Flatten Nested List iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+    - [Nested-List-Weight-Sum](https://leetcode.com/problems/nested-list-weight-sum/) (Premium)
  4. Monotonic stack variants
     - [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)
     - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/)
