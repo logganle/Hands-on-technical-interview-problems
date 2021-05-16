@@ -40,6 +40,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
  ### Matrix
  - [Diagonal traversal](https://leetcode.com/problems/diagonal-traverse/)
  - [Spiral traversal](https://leetcode.com/problems/spiral-matrix/)
+ - [Transpose matrix](https://leetcode.com/problems/transpose-matrix/)
  - [Rotate matrix clockwise](https://leetcode.com/problems/rotate-image/) | [Counter clockwise](https://binarysearch.com/problems/Rotate-by-90-Degrees-Counter-Clockwise)
  - [Sudoku Validator](https://binarysearch.com/problems/Sudoku-Validator)
  - [Candy Crush](https://leetcode.com/problems/candy-crush/) (Premium)
