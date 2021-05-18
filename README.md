@@ -33,6 +33,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     | [Good explanation](https://leetcode.com/problems/interval-list-intersections/discuss/647482/Python-Two-Pointer-Approach-%2B-Thinking-Process-Diagrams)
   * Moving from two different ends
     - [Sum of two numbers with sorted list](https://binarysearch.com/problems/Sum-of-Two-Numbers-with-Sorted-List) (easy)
+    - [Sum of two numbers less than Target](https://binarysearch.com/room/Two-Pointer-aahtncZgIp)
     - [Square of a list](https://binarysearch.com/problems/Square-of-a-List)  
   * Moving from the same side
     - [In-Place Move zeros to end of list](https://binarysearch.com/room/Two-Pointer-rLgWNOS8hr)
