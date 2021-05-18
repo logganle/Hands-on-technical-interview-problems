@@ -31,8 +31,10 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
   * Intervals    
      - [Interval-list-intersection](https://leetcode.com/problems/interval-list-intersections/)
     | [Good explanation](https://leetcode.com/problems/interval-list-intersections/discuss/647482/Python-Two-Pointer-Approach-%2B-Thinking-Process-Diagrams)
-  * Moving from two left and right
+  * Moving from two different ends
     - [Square of a list](https://binarysearch.com/problems/Square-of-a-List)  
+  * Moving from the same side
+    - [In-Place Move zeros to end of list](https://binarysearch.com/room/Two-Pointer-rLgWNOS8hr)
  
  ### Prefix sum algorithm
  - [Subarray Sums equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
