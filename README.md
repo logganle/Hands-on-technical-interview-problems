@@ -219,6 +219,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
             - [Combination III](https://leetcode.com/problems/combination-sum-iii/)
    * More advanced backtracking problems  
 
-
+## Greedy
+ * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
 
           
