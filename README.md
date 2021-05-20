@@ -38,6 +38,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Max Multiplied Pairings](https://binarysearch.com/problems/Max-Multiplied-Pairings) (Two arrays)
   * Moving from the same side
     - [In-Place Move zeros to end of list](https://binarysearch.com/room/Two-Pointer-rLgWNOS8hr)
+    - [Stuck Keyboard](https://binarysearch.com/problems/Stuck-Keyboard) (Good problem, bad description)
  
  ### Prefix sum algorithm
  - [Subarray Sums equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
