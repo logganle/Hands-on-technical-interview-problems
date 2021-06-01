@@ -192,7 +192,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
     - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) (Premium)
     - [Sort items by groups respecting dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) (challenging)
-    - [Flight Itinerary] (https://binarysearch.com/problems/Flight-Itinerary)
+    - [Flight Itinerary](https://binarysearch.com/problems/Flight-Itinerary)
   * Union Find
     - [Friend-circle](https://leetcode.com/problems/friend-circles/)
     - [Redundant-connection](https://leetcode.com/problems/redundant-connection/)
