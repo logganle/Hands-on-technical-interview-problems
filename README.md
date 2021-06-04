@@ -219,8 +219,9 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
             - [Combination II](https://leetcode.com/problems/combination-sum-ii/)
             - [Combination III](https://leetcode.com/problems/combination-sum-iii/)
    * More advanced backtracking problems  
+           - [Sudoku solver](https://binarysearch.com/problems/Sudoku-Solver) (challenging)
 
 ## Greedy
- * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
+ * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates
 
           
