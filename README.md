@@ -202,24 +202,24 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Most Stones Removed with Same Row Or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 
 ## Backtracking
-   * Permutation/combination/subset
-        * Basic problems
-            - [Permutation](https://leetcode.com/problems/permutations/)
-            - [Permutation with duplicates](https://leetcode.com/problems/permutations/)
-            - [Subset](https://leetcode.com/problems/subsets/)
-            - [Subset with duplicates](https://leetcode.com/problems/subsets-ii/)
-            - [Combination](https://leetcode.com/problems/combinations/)
-        * Practice problems
-            - [Palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/)
-            - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
-            - [Largest Time For Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
-            - [Generate balanced parenthesis](https://leetcode.com/problems/generate-parentheses/)
-            - [Generalized Abbreviations](https://leetcode.com/problems/generalized-abbreviation/)
-            - [Combination I](https://leetcode.com/problems/combination-sum/solution/)
-            - [Combination II](https://leetcode.com/problems/combination-sum-ii/)
-            - [Combination III](https://leetcode.com/problems/combination-sum-iii/)
-   * More advanced backtracking problems  
-           - [Sudoku solver](https://binarysearch.com/problems/Sudoku-Solver) (challenging)
+  * Permutation/combination/subset
+       * Basic problems
+           - [Permutation](https://leetcode.com/problems/permutations/)
+           - [Permutation with duplicates](https://leetcode.com/problems/permutations/)
+           - [Subset](https://leetcode.com/problems/subsets/)
+           - [Subset with duplicates](https://leetcode.com/problems/subsets-ii/)
+           - [Combination](https://leetcode.com/problems/combinations/)
+       * Practice problems
+           - [Palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+           - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+           - [Largest Time For Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
+           - [Generate balanced parenthesis](https://leetcode.com/problems/generate-parentheses/)
+           - [Generalized Abbreviations](https://leetcode.com/problems/generalized-abbreviation/)
+           - [Combination I](https://leetcode.com/problems/combination-sum/solution/)
+           - [Combination II](https://leetcode.com/problems/combination-sum-ii/)
+           - [Combination III](https://leetcode.com/problems/combination-sum-iii/)
+ * More advanced backtracking problems  
+   - [Sudoku solver](https://binarysearch.com/problems/Sudoku-Solver) (challenging)
 
 ## Greedy
  * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates
