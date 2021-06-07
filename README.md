@@ -200,6 +200,10 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) (minimum spanning tree)
     - [Number of Operations to make netWork connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
     - [Most Stones Removed with Same Row Or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
+  * Eulerian path/circle variants
+    - [Eulerian path/cycle theory](https://www.youtube.com/watch?v=xR4sGgwtR2I) | [Algorithms to find Eulerian path/cycle](https://www.youtube.com/watch?v=xR4sGgwtR2I)
+    - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+    - [Flight itinerary](https://binarysearch.com/problems/Flight-Itinerary-Sequel) (General version)
 
 ## Backtracking
   * Permutation/combination/subset
