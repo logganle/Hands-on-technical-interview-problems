@@ -11,6 +11,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
      - [3Sum-closest](https://leetcode.com/problems/3sum-closest/)
      - [3sum-smaller](https://leetcode.com/problems/3sum-smaller/) (Premium)
      - [4sum](https://leetcode.com/problems/4sum/)
+     - [Number of Quadruplets That Sum Target](https://binarysearch.com/problems/Number-of-Quadruplets-That-Sum-Target)
   *  Sliding windows
      - [Find minimum subarray with length greater than or equal to K](https://leetcode.com/problems/minimum-size-subarray-sum/)
      - [Longest increasing contiguous subsequence array](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
