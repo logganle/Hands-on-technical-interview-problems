@@ -226,6 +226,6 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
    - [Sudoku solver](https://binarysearch.com/problems/Sudoku-Solver) (challenging)
 
 ## Greedy
- * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates
+ * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
 
           
