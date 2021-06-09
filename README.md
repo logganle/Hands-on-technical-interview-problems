@@ -142,6 +142,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
 ### Queues
  1. Deque
     - [Sliding max window](https://leetcode.com/problems/sliding-window-maximum/)
+    - [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
    
 ### Heaps
  1. K-Way merge
