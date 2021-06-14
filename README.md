@@ -229,5 +229,6 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
 
 ## Greedy
  * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
+ * [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 
           
