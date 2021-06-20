@@ -188,6 +188,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
         - [Rotting-oranges](https://leetcode.com/problems/rotting-oranges/)
         - [As Far from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
         - [01-matrix](https://leetcode.com/problems/01-matrix/)
+        - [The Meeting Place](https://binarysearch.com/problems/The-Meeting-Place)
     * Graph coloring
         - [Possible-bipartition](https://leetcode.com/problems/possible-bipartition/)
         - [Is-graph-Bipartite](https://leetcode.com/problems/is-graph-bipartite/)    
@@ -207,7 +208,9 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Eulerian path/cycle theory](https://www.youtube.com/watch?v=xR4sGgwtR2I) | [Algorithms to find Eulerian path/cycle](https://www.youtube.com/watch?v=xR4sGgwtR2I)
     - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
     - [Flight itinerary](https://binarysearch.com/problems/Flight-Itinerary-Sequel) (General version)
-
+   * Dijkstra
+     - [Path minimum effort](https://leetcode.com/problems/path-with-minimum-effort/)
+     - [Swim rising water](https://leetcode.com/problems/swim-in-rising-water/)
 ## Backtracking
   * Permutation/combination/subset
        * Basic problems
