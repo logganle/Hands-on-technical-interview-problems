@@ -171,7 +171,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [BST-iterator-2ways](https://leetcode.com/problems/binary-search-tree-iterator-ii/) (Premium)  
  2. Top down | DFS + global tracker | preorder
  3. Bottom up
- 
+    - [Maximum Difference Between Node And Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) (can also use top down, tracking min max along the path)
 ## Graphs
   * BFS/DFS
     * Island variants | Connected components
