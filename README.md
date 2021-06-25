@@ -248,7 +248,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
      * Longest streak variants
        *  Longest common subsequence/substring (bottom up)
           - [Longest common substring](https://binarysearch.com/problems/Longest-Common-Substring) | [longest common subarrays](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
-          - [Longest common subsequence](1143. Longest Common Subsequence) | [Uncrossed line](https://leetcode.com/problems/uncrossed-lines/)
+          - [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Uncrossed line](https://leetcode.com/problems/uncrossed-lines/)
           - [Max dot product of unsubsequence](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) (unsolved)
        * Longest increasing subsequence variants (bottom up)
           - [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
