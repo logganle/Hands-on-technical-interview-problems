@@ -247,7 +247,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
          - [Minimum Insertion steps to make palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) Similar to deletions
      * Longest streak variants
        *  Longest common subsequence/substring (bottom up)
-          - [Longest common substring](https://binarysearch.com/problems/Longest-Common-Substring) | [longest common subarrays](718. Maximum Length of Repeated Subarray)
+          - [Longest common substring](https://binarysearch.com/problems/Longest-Common-Substring) | [longest common subarrays](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
           - [Longest common subsequence](1143. Longest Common Subsequence) | [Uncrossed line](https://leetcode.com/problems/uncrossed-lines/)
           - [Max dot product of unsubsequence](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) (unsolved)
        * Longest increasing subsequence variants (bottom up)
