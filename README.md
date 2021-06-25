@@ -232,7 +232,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
    - [Sudoku solver](https://binarysearch.com/problems/Sudoku-Solver) (challenging)
 ## Dynamic programming
  * Substring/subsequence
-     * Palindromic
+     * Palindromic variants
        * Basic 
          - [Longest palindromic subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) (longest)
          - [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/) (longest)
@@ -245,6 +245,15 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
          - [Palindrome IV](https://leetcode.com/problems/palindrome-partitioning-iv/)
        * Others
          - [Minimum Insertion steps to make palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) Similar to deletions
+     * Longest streak variants
+       *  Longest common subsequence/substring (bottom up)
+          - [Longest common substring](https://binarysearch.com/problems/Longest-Common-Substring) | [longest common subarrays](718. Maximum Length of Repeated Subarray)
+          - [Longest common subsequence](1143. Longest Common Subsequence) | [Uncrossed line](https://leetcode.com/problems/uncrossed-lines/)
+          - [Max dot product of unsubsequence](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) (unsolved)
+       * Longest increasing subsequence variants (bottom up)
+          - [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+          - [Number of increasing subsequences](673. Number of Longest Increasing Subsequence)
+          - [Russian Doll Envelop](https://leetcode.com/problems/russian-doll-envelopes/) (unsolved)
 ## Greedy
  * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
  * [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
