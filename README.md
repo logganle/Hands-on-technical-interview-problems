@@ -230,7 +230,21 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
            - [Combination III](https://leetcode.com/problems/combination-sum-iii/)
  * More advanced backtracking problems  
    - [Sudoku solver](https://binarysearch.com/problems/Sudoku-Solver) (challenging)
-
+## Dynamic programming
+ * Substring/subsequence
+     * Palindromic
+       * Basic 
+         - [Longest palindromic subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) (longest)
+         - [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/) (longest)
+         - [Count palindromic subsrtings](https://leetcode.com/problems/palindromic-substrings/) (counting)
+         - [Count palindromic subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) (counting)
+       * Partitioning
+         - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+         - [Minimum Palindromic cuts](https://leetcode.com/problems/palindrome-partitioning-ii/)
+         - [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/)
+         - [Palindrome IV](https://leetcode.com/problems/palindrome-partitioning-iv/)
+       * Others
+         - [Minimum Insertion steps to make palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) Similar to deletions
 ## Greedy
  * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
  * [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
