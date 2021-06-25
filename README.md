@@ -252,7 +252,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
           - [Max dot product of unsubsequence](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) (unsolved)
        * Longest increasing subsequence variants (bottom up)
           - [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-          - [Number of increasing subsequences](673. Number of Longest Increasing Subsequence)
+          - [Number of increasing subsequences](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
           - [Russian Doll Envelop](https://leetcode.com/problems/russian-doll-envelopes/) (unsolved)
 ## Greedy
  * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
