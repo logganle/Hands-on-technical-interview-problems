@@ -46,7 +46,8 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
  - [Subarray Sums equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
  - [Subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
  - [Can make palindrome from substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)    
- 
+ - [Number of Submatrices that sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+ - [Max Sum of Rectangle No Larget than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
  ### Matrix
  - [Diagonal traversal](https://leetcode.com/problems/diagonal-traverse/)
  - [Spiral traversal](https://leetcode.com/problems/spiral-matrix/)
