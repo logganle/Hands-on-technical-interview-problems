@@ -190,6 +190,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
         - [As Far from land as possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
         - [01-matrix](https://leetcode.com/problems/01-matrix/)
         - [The Meeting Place](https://binarysearch.com/problems/The-Meeting-Place)
+        - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
     * Graph coloring
         - [Possible-bipartition](https://leetcode.com/problems/possible-bipartition/)
         - [Is-graph-Bipartite](https://leetcode.com/problems/is-graph-bipartite/)    
