@@ -117,6 +117,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
  1. Designs
     - [Design max stack](https://leetcode.com/problems/max-stack/) (Premium)
     - [Design min stack](https://leetcode.com/problems/min-stack/)
+    - [Design a stack with Increment](https://leetcode.com/problems/design-a-stack-with-increment-operation/)
  2. Expression evaluation variants
     - [Calculator-no-parenthesis](https://leetcode.com/problems/basic-calculator-ii/)
     - [Calculator-parenthesis-addition-subtraction](https://leetcode.com/problems/basic-calculator/)
