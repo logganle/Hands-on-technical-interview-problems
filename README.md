@@ -133,6 +133,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
  4. Monotonic stack variants
     - [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)
     - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/)
+    - [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
     - [Remove K digits](https://leetcode.com/problems/remove-k-digits/description/)
     - [Remove duplicate letters](https://leetcode.com/problems/remove-duplicate-letters/)
     - [132 Pattern](https://leetcode.com/problems/132-pattern/)
