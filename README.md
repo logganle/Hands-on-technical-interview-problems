@@ -131,6 +131,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Number-of-Atoms](https://leetcode.com/problems/number-of-atoms/)
     - [Flatten Nested List iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
     - [Nested-List-Weight-Sum](https://leetcode.com/problems/nested-list-weight-sum/) (Premium)
+    - [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) (tricky | need to calculate idleTime)
  4. Monotonic stack variants
     - [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)
     - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/)
