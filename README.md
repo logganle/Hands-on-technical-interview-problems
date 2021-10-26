@@ -258,6 +258,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
        * Longest increasing subsequence variants (bottom up)
           - [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
           - [Number of increasing subsequences](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+          - [Longest arithmetic subsequence] (https://leetcode.com/problems/longest-arithmetic-subsequence/)
           - [Russian Doll Envelop](https://leetcode.com/problems/russian-doll-envelopes/) (unsolved)
 ## Greedy
  * [Equalize List Sums with Minimal updates](https://binarysearch.com/problems/Equalize-List-Sums-with-Minimal-Updates)
