@@ -29,6 +29,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
      - [Longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
      - [Longest repeating character replacement](https://leetcode.com/problems/max-consecutive-ones-ii/)(tricky)
      - [Maximum # occurrences of a substring](https://leetcode.com/problems/max-consecutive-ones-iii/)(tricky)
+     - [Longest substring with at least K repeating chars](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) (tricky | needs to redefine helper function)
      - [Maximum average subarray](https://leetcode.com/problems/maximum-average-subarray-i/)
   * Intervals    
      - [Interval-list-intersection](https://leetcode.com/problems/interval-list-intersections/)
