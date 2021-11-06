@@ -145,7 +145,8 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Max Chunks to Make sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
     - [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
     - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
-    
+    - [Smallest subsequence distinct characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) (Look at the remaining (future) condition to decide if we can greedily pop the stack.)
+    - [k Lexicographically smallest subsequence](https://binarysearch.com/problems/K-Lexicographically-Smallest-Subsequence) (Look at the remaining (future) condition to decide if we can greedily pop the stack.)
 ### Queues
  1. Deque
     - [Sliding max window](https://leetcode.com/problems/sliding-window-maximum/)
