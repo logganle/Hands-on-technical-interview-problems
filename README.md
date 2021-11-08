@@ -203,6 +203,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
         - [Is-graph-Bipartite](https://leetcode.com/problems/is-graph-bipartite/)    
   * Topological sort
     - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+    - [Parallel courses](https://leetcode.com/problems/parallel-courses/)
     - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) (Premium)
     - [Sort items by groups respecting dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) (challenging)
     - [Flight Itinerary](https://binarysearch.com/problems/Flight-Itinerary)
