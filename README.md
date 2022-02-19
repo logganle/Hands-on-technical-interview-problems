@@ -158,6 +158,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
     - [Find K smallest pairs sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Good explanation](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/84551/simple-Java-O(KlogK)-solution-with-explanation)
     - [Employee free time](https://leetcode.com/problems/employee-free-time/)
     - [Minimize deviation](https://leetcode.com/problems/minimize-deviation-in-array/)
+    - [Smallest Range Covering Element](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
  2. Top/Smallest/Frequent K
     - [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/)
     - [Kth largest element in array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
