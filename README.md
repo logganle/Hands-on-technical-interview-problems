@@ -33,6 +33,7 @@ Source: [Leetcode](leetcode.com) | [Binaryseach](binarysearch.com)
      - [Maximum average subarray](https://leetcode.com/problems/maximum-average-subarray-i/)
   * Intervals    
      - [Interval-list-intersection](https://leetcode.com/problems/interval-list-intersections/)
+     - [Remove covered intervals](https://leetcode.com/problems/remove-covered-intervals/)
     | [Good explanation](https://leetcode.com/problems/interval-list-intersections/discuss/647482/Python-Two-Pointer-Approach-%2B-Thinking-Process-Diagrams)
   * Moving from two different ends
     - [Sum of two numbers with sorted list](https://binarysearch.com/problems/Sum-of-Two-Numbers-with-Sorted-List) (easy)
